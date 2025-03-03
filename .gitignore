@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/fe/node_modules
+/fe/.pnp
+/fe.pnp.js
+
+# testing
+/fe/coverage
+
+# production
+/fe/build
+
+# misc
+/fe/.DS_Store
+/fe/.env.local
+/fe/.env.development.local
+/fe/.env.test.local
+/fe/.env.production.local
+
+/fe/npm-debug.log*
+/fe/yarn-debug.log*
+/fe/yarn-error.log*
+
+/FLASK/myenv
+/FLASK/__pycache__
+/FLASK/classify_data
+/FLASK/vgg16_model.pth
+/FLASK/weights_fine_tuning.pth
+/FLASK/weights_fine_tuning_v2.pth
+/FLASK/weights_fine_tuning_v3.pth
+/FLASK/weights_fine_tuning_v4.pth
+/FLASK/4_class_cassava.pth
+/FLASK/base_model.pth
+/FLASK/large_model.pth
+/FLASK/best.pt
+/FLASK/small_model.pth
+/Dockerfile

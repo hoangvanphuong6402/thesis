@@ -1,0 +1,17 @@
+numpy
+tqdm
+matplotlib
+torch
+torchvision
+timm
+ultralytics
+werkzeug
+uuid
+opencv-python
+flask
+pymongo
+bcrypt
+flask_session
+jwt
+flask_cors
+bson
